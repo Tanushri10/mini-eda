@@ -1,0 +1,2 @@
+# mini-eda
+Titanic EDA 
