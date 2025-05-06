@@ -1,2 +1,2 @@
 # mini-eda
-Titanic EDA 
+Titanic EDA - Basic
